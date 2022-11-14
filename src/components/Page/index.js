@@ -8,13 +8,13 @@ import PageContent from "../PageContent";
 
 function Page({currentPage}) {
     const renderPage = () => {
-        if (currentPage.name === "about") {
+        if (currentPage.name === "About") {
             return <About></About>
-        } else if (currentPage.name === "portfolio") {
+        } else if (currentPage.name === "Portfolio") {
             return <Portfolio></Portfolio>
-        } else if (currentPage.name === "contact") {
+        } else if (currentPage.name === "Contact") {
             return <Contact></Contact>
-        } else if (currentPage.name === "resume") {
+        } else if (currentPage.name === "Resume") {
             return <Resume></Resume>
         } else {
             return <About></About>

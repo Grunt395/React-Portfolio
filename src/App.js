@@ -10,16 +10,16 @@ function App() {
   
   const [pages] = useState([
     {
-      name: "about"
+      name: "About"
     },
     {
-      name: "portfolio"
+      name: "Portfolio"
     },
     {
-      name: "contact"
+      name: "Contact"
     },
     {
-      name: "resume"
+      name: "Resume"
     },
   ])
   
