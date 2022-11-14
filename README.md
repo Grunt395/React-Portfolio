@@ -17,6 +17,10 @@ When I enter text into the email address field, then I receive a notification if
 When I am presented with the Resume section, then I see a link to a downloadable resume and a list of the developer’s proficiencies.
 When I view the footer, then I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter).
 
+Deployed Project link:
+
+https://grunt395.github.io/Module-20-Challenge/
+
 Instructions used in the terminal to run:
 
 npm install
