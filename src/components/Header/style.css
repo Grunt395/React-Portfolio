@@ -1,0 +1,14 @@
+.header-container {
+    /* background-color: red; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+img {
+    width: 1900px;
+    height: 800px;
+}
