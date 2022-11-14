@@ -1,0 +1,12 @@
+.active {
+    color: red;
+}
+
+.nav-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    text-decoration: none;
+    list-style-type: none;
+    cursor: pointer;
+}
