@@ -19,7 +19,7 @@ When I view the footer, then I am presented with text or icon links to the devel
 
 Deployed Project link:
 
-https://grunt395.github.io/Module-20-Challenge/
+https://grunt395.github.io/React-Portfolio/
 
 Instructions used in the terminal to run:
 
